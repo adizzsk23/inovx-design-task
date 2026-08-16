@@ -2,6 +2,10 @@
 
 This is the design task round for INOVX recruitment. Read this page fully before you start.
 
+## Access
+
+You will receive a GitHub invitation to this repository. **Accept it as soon as it arrives** — the invitation expires after 7 days, and until you accept, you will not be able to upload your file. The invite appears in your GitHub notifications and in the email tied to your account.
+
 ## Deadline
 
 **Monday, 10:00 PM.**
@@ -43,6 +47,11 @@ The three formats do **not** have to share a single visual identity. Tying them 
 ## How to Upload
 
 Submit **one PDF containing all three formats** — story, post, and display, in that order. Name it `Panel1_YourName.pdf`, using your own panel number and your own name. For example, a Panel 2 member named Kamakshi uploads `Panel2_Kamakshi.pdf`.
+
+Two things to sort out before you start:
+
+- **Keep the PDF under 25 MB.** That is GitHub's limit for a browser upload. If your export is larger, reduce the image quality on export rather than dropping any of the three formats.
+- **Use a computer, not the GitHub phone app.** The mobile app cannot upload files. A phone browser can work if you switch it to desktop mode, but a laptop is far less painful.
 
 Steps, in the browser:
 
